@@ -1,0 +1,245 @@
+.main-page{
+    text-align: center;
+}
+
+.top-header{
+    position: fixed;
+    background-color: lightblue;
+    height: 150px;
+    width: 100%;
+    display: block;
+}
+
+.main-body{
+    margin: 0;
+    background-color: lightblue;
+}
+
+body{
+    margin: 0;
+    background-color: grey;    
+}
+
+.main-top{
+    text-align: center;
+}
+
+.main-middle{
+    display: block;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.main-bottom{
+    display: block;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.top{
+    display: block;
+    padding-top: 150px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+}
+
+.middle{
+    display: block;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    padding: 50px;
+}
+
+.bottom{
+    display: block;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.profile{    
+    height: 300px;
+    width: auto;
+    text-align: center;
+    margin: 30px 0;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.intro{
+    font-size: 20px;
+}
+
+.degrees{
+    display: inline-block;
+    margin: auto 40px;
+}
+
+.main-title{       
+    display: inline-block;    
+}
+
+.title{
+    position: left;    
+    display: inline-block;
+    margin: 0 0 0 30px;
+}
+
+.programming{
+    font-size: 24px;
+}
+
+.links{
+    display: inline-block;
+    margin-left: 60px;
+    position: absolute;
+    margin-top: 75px;
+}
+.link{
+    padding: 10px;
+    text-decoration: none;
+    border: solid;
+    border-width: 4px;
+    border-radius: 8px;
+    border-color: black;
+    margin: 5px;
+}
+
+.linked{
+    padding: 10px;
+    text-decoration: none;
+    border: solid;
+    border-width: 4px;
+    border-radius: 8px;
+    border-color: black;
+    margin: 10px;
+}
+
+.email{
+    padding: 10px;
+    text-decoration: none;
+    border: solid;
+    border-width: 4px;
+    border-radius: 8px;
+    border-color: black;
+    margin: 10px;
+}
+
+.copyright{
+    margin-top: 40px;
+}
+
+.contactme{
+    margin-bottom: 30px;
+    text-decoration: underline;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.engineer{
+    padding: 10px;
+    text-decoration: none;
+    border: solid;
+    border-width: 4px;
+    border-radius: 8px;
+    border-color: black;
+    margin: 10px;    
+}
+
+.programmer{
+    padding: 10px;
+    text-decoration: none;
+    border: solid;
+    border-width: 4px;
+    border-radius: 8px;
+    border-color: black;
+    margin: 10px;
+}
+
+.job{
+    display: block;
+    padding-left: 50px;
+    font-size: 24px;
+}
+
+.job-role{
+    display: inline-block;    
+}
+
+.job-date{
+    display: block;
+    text-align: left;
+}
+
+a:hover{
+    background-color: white;
+}
+
+.h1-main{
+    font-size: 90px;
+    margin: 25px auto;
+}
+
+h1{
+    margin: 30px 0 50px 0;
+    font-size: 90px;
+}
+
+h2{
+    text-decoration: underline;
+    /* padding-left: 30px; */
+    font-size: 36px;    
+}
+
+h3{
+    font-size: 24px;
+    margin: 0;
+    /* padding-left: 50px; */
+}
+
+h4{
+    margin: 0;
+    /* padding-left: 50px; */
+}
+
+h5{
+    margin: 0;
+    /* padding-left: 50px; */
+}
+
+span{
+    font-style: italic;
+}
+
+p{
+    /* padding-left: 60px; */
+}
+
+.resume{ 
+    padding: 30px 0 0 30px;  
+    font-size: 24px;  
+}
+
+.project{
+    display: block;
+    padding-left: 40px;
+}
+
+.subjectTitle{
+    font-size: 48px;
+    margin: 25px 0 15px 0;
+}
+
+.projectImage{
+    margin: 20px;
+    width: 30%;
+}
+
+
+
